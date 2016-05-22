@@ -1,4 +1,4 @@
-# Terraform dummy provider
+# Terraform dummy provider - turek fork
 
 [![GoDoc](https://godoc.org/github.com/whitepages/terraform-provider-dummy?status.svg)](https://godoc.org/github.com/whitepages/terraform-provider-dummy)
 [![Build Status](https://secure.travis-ci.org/whitepages/terraform-provider-dummy.png)](http://travis-ci.org/whitepages/terraform-provider-dummy)
